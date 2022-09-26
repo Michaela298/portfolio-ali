@@ -1,8 +1,24 @@
 :root {
-  --branding-color: #145374;
-  --secondary-color: #e8e8e8;
+  --branding-color: #db66e4;
+  --secondary-color: #aceacf;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
+}
+
+.first-color {
+  background: #c5fad9;
+}
+
+.second-color {
+  background: #aceacf;
+}
+
+.third-color {
+  background: #f77fee;
+}
+
+.fourth-color {
+  background: #db66e4;
 }
 
 body {
@@ -49,7 +65,7 @@ p {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
-  color: #272142;
+  color: #f77fee;
 }
 
 .hero h2 {
@@ -64,7 +80,6 @@ p {
   top: 0;
   background-color: white;
   max-width: 100%;
-
 }
 
 .content-container {
@@ -94,7 +109,7 @@ p {
 }
 
 .content h3 a:hover {
-  color: var(--branding-color)
+  color: var(--branding-color);
 }
 
 .content p {
