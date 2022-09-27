@@ -1,24 +1,24 @@
 :root {
-  --branding-color: #db66e4;
-  --secondary-color: #aceacf;
+  --branding-color: #5f1854;
+  --secondary-color: #1abb9c;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
 
 .first-color {
-  background: #c5fad9;
+  background: #f7f7f7;
 }
 
 .second-color {
-  background: #aceacf;
+  background: #3b0944;
 }
 
 .third-color {
-  background: #f77fee;
+  background: #5f1854;
 }
 
 .fourth-color {
-  background: #db66e4;
+  background: #1abb9c;
 }
 
 body {
